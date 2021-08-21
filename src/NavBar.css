@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0 20px 0 20px;
+    background-color: #273546;
+    color: #fff;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+.buttons {
+    display: flex;
+}
+
+.buttons span {
+    padding-left: 30px;
+}
